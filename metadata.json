@@ -1,0 +1,8 @@
+{
+  "name": "Remix Radio-Ciwara-",
+  "description": "Imported from GitHub: cmbenkouma-alt/Radio-Ciwara-",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
