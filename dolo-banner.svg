@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 555">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#18051f" stop-opacity=".10"/><stop offset=".48" stop-color="#18051f" stop-opacity=".70"/><stop offset="1" stop-color="#08030f" stop-opacity=".86"/></linearGradient></defs>
+<rect width="1536" height="555" fill="#16051f"/>
+<image href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/" x="0" y="0" width="1536" height="555" preserveAspectRatio="xMidYMid slice"/>
+<rect width="1536" height="555" fill="url(#g)"/>
+<text x="610" y="82" fill="#ffd447" font-family="Arial,sans-serif" font-size="58" font-weight="900">KARIM KONARÉ</text>
+<text x="820" y="132" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="800">DIT DOLO KARAMOKO</text>
+<text x="650" y="182" fill="#ffd447" font-family="Arial,sans-serif" font-size="29" font-weight="800">GÉOMANCIEN ET ASTROLOGUE</text>
+<text x="650" y="230" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">Géomancie • Astrologie • Conseils • Orientation</text>
+<text x="650" y="264" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">Prédictions • Protection • Réussite</text>
+<rect x="650" y="300" width="790" height="106" rx="18" fill="#25052d" stroke="#ffd447" stroke-width="3"/>
+<text x="685" y="340" fill="#ffd447" font-family="Arial,sans-serif" font-size="27" font-weight="900">DOLO ÉMISSION</text>
+<text x="685" y="374" fill="#fff" font-family="Arial,sans-serif" font-size="19" font-weight="700">Chaque vendredi de 15h à 17h</text>
+<text x="685" y="400" fill="#fff" font-family="Arial,sans-serif" font-size="17" font-weight="700">Rediffusion jeudi et dimanche de 22h à 00h</text>
+<rect x="610" y="445" width="830" height="70" rx="35" fill="#ffd447"/>
+<text x="660" y="491" fill="#18051f" font-family="Arial,sans-serif" font-size="31" font-weight="900">75228622 / 76108816</text>
+</svg>
